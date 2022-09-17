@@ -33,7 +33,7 @@ dotnet tool uninstall exchange-cli --global
 
 ```bash
 # Help
-dotnet-exchange -h
+dotnet exchange -h
 # Gets the Rate!
-dotnet-exchange EUR USD 100
+dotnet exchange EUR USD 100
 ```
