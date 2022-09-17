@@ -5,7 +5,7 @@ Simple console app that fetches the current exchange rate for a specified from c
 ## Run
 
 ```bash
-# Gets the weather
+# Gets the Rate!
 dotnet run -- <from> <to> <amount>
 # Help!
 dotnet run -- -h
